@@ -39,3 +39,19 @@ Small progress every day builds strong problem-solving skills.
 ---
 
 ⭐ If you are also practicing DSA daily, let’s grow together!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+<!---LeetCode Topics End-->
