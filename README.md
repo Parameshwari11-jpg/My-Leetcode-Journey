@@ -50,6 +50,7 @@ Small progress every day builds strong problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -150,6 +151,7 @@ Small progress every day builds strong problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
