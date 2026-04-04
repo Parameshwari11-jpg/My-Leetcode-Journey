@@ -112,6 +112,7 @@ Small progress every day builds strong problem-solving skills.
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
@@ -151,6 +152,7 @@ Small progress every day builds strong problem-solving skills.
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Small progress every day builds strong problem-solving skills.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2751-robot-collisions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2751-robot-collisions/) | Hard |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
