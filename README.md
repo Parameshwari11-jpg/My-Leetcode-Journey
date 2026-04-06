@@ -50,6 +50,7 @@ Small progress every day builds strong problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -141,6 +142,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -205,6 +207,7 @@ Small progress every day builds strong problem-solving skills.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -260,4 +263,12 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2751-robot-collisions/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
