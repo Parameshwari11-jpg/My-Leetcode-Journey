@@ -103,6 +103,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -158,6 +159,7 @@ Small progress every day builds strong problem-solving skills.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -271,4 +273,8 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
