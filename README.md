@@ -56,6 +56,7 @@ Small progress every day builds strong problem-solving skills.
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1306-jump-game-iii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1306-jump-game-iii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -262,6 +263,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [1306-jump-game-iii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1306-jump-game-iii/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -294,4 +296,5 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [1306-jump-game-iii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1306-jump-game-iii/) | Medium |
 <!---LeetCode Topics End-->
