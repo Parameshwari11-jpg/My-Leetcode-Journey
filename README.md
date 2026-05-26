@@ -49,6 +49,7 @@ Small progress every day builds strong problem-solving skills.
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
@@ -147,6 +148,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
@@ -314,4 +316,8 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1306-jump-game-iii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1306-jump-game-iii/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
