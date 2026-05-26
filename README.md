@@ -57,6 +57,7 @@ Small progress every day builds strong problem-solving skills.
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -189,6 +190,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1871-jump-game-vii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
