@@ -46,6 +46,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
@@ -245,6 +246,7 @@ Small progress every day builds strong problem-solving skills.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -255,6 +257,7 @@ Small progress every day builds strong problem-solving skills.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
