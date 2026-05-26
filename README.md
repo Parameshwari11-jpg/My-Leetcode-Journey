@@ -51,6 +51,7 @@ Small progress every day builds strong problem-solving skills.
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -144,6 +145,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1871-jump-game-vii/) | Medium |
