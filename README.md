@@ -46,6 +46,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
@@ -87,6 +88,7 @@ Small progress every day builds strong problem-solving skills.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -272,6 +274,7 @@ Small progress every day builds strong problem-solving skills.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
