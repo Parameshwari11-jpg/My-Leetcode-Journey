@@ -124,6 +124,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -315,6 +316,7 @@ Small progress every day builds strong problem-solving skills.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2751-robot-collisions/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
