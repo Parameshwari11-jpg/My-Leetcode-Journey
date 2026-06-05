@@ -174,6 +174,7 @@ Small progress every day builds strong problem-solving skills.
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +256,7 @@ Small progress every day builds strong problem-solving skills.
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
