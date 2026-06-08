@@ -75,6 +75,7 @@ Small progress every day builds strong problem-solving skills.
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -196,6 +197,7 @@ Small progress every day builds strong problem-solving skills.
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -308,6 +310,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -321,6 +324,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
