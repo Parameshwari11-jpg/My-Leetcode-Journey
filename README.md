@@ -310,6 +310,7 @@ Small progress every day builds strong problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -369,5 +370,6 @@ Small progress every day builds strong problem-solving skills.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
