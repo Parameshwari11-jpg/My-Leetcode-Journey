@@ -266,6 +266,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
