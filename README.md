@@ -379,4 +379,8 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
