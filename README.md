@@ -71,6 +71,7 @@ Small progress every day builds strong problem-solving skills.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -223,6 +224,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
