@@ -140,6 +140,7 @@ Small progress every day builds strong problem-solving skills.
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -209,6 +210,7 @@ Small progress every day builds strong problem-solving skills.
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -386,4 +388,8 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
