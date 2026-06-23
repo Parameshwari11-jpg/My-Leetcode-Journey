@@ -189,6 +189,7 @@ Small progress every day builds strong problem-solving skills.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 ## Sliding Window
@@ -238,6 +239,7 @@ Small progress every day builds strong problem-solving skills.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
