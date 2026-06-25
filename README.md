@@ -95,6 +95,7 @@ Small progress every day builds strong problem-solving skills.
 | [3643-flip-square-submatrix-vertically](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -218,6 +219,7 @@ Small progress every day builds strong problem-solving skills.
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +243,7 @@ Small progress every day builds strong problem-solving skills.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -299,6 +302,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -383,6 +387,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -396,4 +401,9 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 <!---LeetCode Topics End-->
