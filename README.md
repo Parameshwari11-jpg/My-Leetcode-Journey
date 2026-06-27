@@ -49,6 +49,7 @@ Small progress every day builds strong problem-solving skills.
 | [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
@@ -181,6 +182,7 @@ Small progress every day builds strong problem-solving skills.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
@@ -335,6 +337,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -380,6 +383,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2751-robot-collisions/) | Hard |
 ## Queue
@@ -420,4 +424,8 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
