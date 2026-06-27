@@ -83,6 +83,7 @@ Small progress every day builds strong problem-solving skills.
 | [2161-partition-array-according-to-given-pivot](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2751-robot-collisions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2751-robot-collisions/) | Hard |
@@ -211,6 +212,7 @@ Small progress every day builds strong problem-solving skills.
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1871-jump-game-vii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -222,6 +224,7 @@ Small progress every day builds strong problem-solving skills.
 | [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
