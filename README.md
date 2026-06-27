@@ -55,6 +55,7 @@ Small progress every day builds strong problem-solving skills.
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -315,6 +316,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
+| [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
@@ -333,6 +335,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
