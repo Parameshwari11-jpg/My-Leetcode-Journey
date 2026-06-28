@@ -80,6 +80,7 @@ Small progress every day builds strong problem-solving skills.
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1840-maximum-building-height](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -115,6 +116,7 @@ Small progress every day builds strong problem-solving skills.
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -339,6 +341,7 @@ Small progress every day builds strong problem-solving skills.
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1840-maximum-building-height](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
