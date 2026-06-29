@@ -314,6 +314,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
+| [1175-prime-arrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1840-maximum-building-height/) | Hard |
