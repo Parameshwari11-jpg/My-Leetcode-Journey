@@ -61,6 +61,7 @@ Small progress every day builds strong problem-solving skills.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
+| [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -312,6 +313,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
+| [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1840-maximum-building-height/) | Hard |
@@ -403,6 +405,7 @@ Small progress every day builds strong problem-solving skills.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -460,4 +463,8 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
