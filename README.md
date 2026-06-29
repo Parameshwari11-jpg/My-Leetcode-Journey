@@ -108,6 +108,7 @@ Small progress every day builds strong problem-solving skills.
 | [3643-flip-square-submatrix-vertically](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -214,6 +215,7 @@ Small progress every day builds strong problem-solving skills.
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
