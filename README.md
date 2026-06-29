@@ -60,6 +60,7 @@ Small progress every day builds strong problem-solving skills.
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
@@ -491,4 +492,5 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0136-single-number/) | Easy |
+| [0137-single-number-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
 <!---LeetCode Topics End-->
