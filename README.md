@@ -155,6 +155,7 @@ Small progress every day builds strong problem-solving skills.
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0541-reverse-string-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -367,6 +368,7 @@ Small progress every day builds strong problem-solving skills.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0344-reverse-string/) | Easy |
+| [0541-reverse-string-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
