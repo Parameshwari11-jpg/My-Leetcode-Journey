@@ -202,6 +202,7 @@ Small progress every day builds strong problem-solving skills.
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
@@ -315,6 +316,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
+| [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 | [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1175-prime-arrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
@@ -476,5 +478,6 @@ Small progress every day builds strong problem-solving skills.
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
