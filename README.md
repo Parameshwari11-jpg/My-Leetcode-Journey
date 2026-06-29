@@ -319,6 +319,7 @@ Small progress every day builds strong problem-solving skills.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
