@@ -59,6 +59,7 @@ Small progress every day builds strong problem-solving skills.
 | [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
@@ -486,4 +487,8 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
