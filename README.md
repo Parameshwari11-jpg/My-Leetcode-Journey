@@ -53,6 +53,7 @@ Small progress every day builds strong problem-solving skills.
 | [0042-trapping-rain-water](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
@@ -158,6 +159,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0344-reverse-string/) | Easy |
@@ -246,6 +248,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0567-permutation-in-string/) | Medium |
@@ -361,6 +364,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0056-merge-intervals/) | Medium |
 | [0075-sort-colors](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0088-merge-sorted-array/) | Easy |
