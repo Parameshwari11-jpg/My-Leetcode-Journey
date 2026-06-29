@@ -181,6 +181,7 @@ Small progress every day builds strong problem-solving skills.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -203,6 +204,7 @@ Small progress every day builds strong problem-solving skills.
 | [0055-jump-game](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0198-house-robber/) | Medium |
+| [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -314,6 +316,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
+| [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 | [1175-prime-arrangements](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1175-prime-arrangements/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
@@ -470,4 +473,8 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
 | [2523-closest-prime-numbers-in-range](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
