@@ -319,6 +319,7 @@ Small progress every day builds strong problem-solving skills.
 | [1622-fancy-sequence](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1622-fancy-sequence/) | Hard |
 | [1840-maximum-building-height](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1840-maximum-building-height/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -468,4 +469,5 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0204-count-primes/) | Medium |
+| [2523-closest-prime-numbers-in-range](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2523-closest-prime-numbers-in-range/) | Medium |
 <!---LeetCode Topics End-->
