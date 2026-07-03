@@ -109,6 +109,7 @@ Small progress every day builds strong problem-solving skills.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -224,6 +225,7 @@ Small progress every day builds strong problem-solving skills.
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3693-climbing-stairs-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -312,6 +314,7 @@ Small progress every day builds strong problem-solving skills.
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -325,6 +328,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -357,6 +361,7 @@ Small progress every day builds strong problem-solving skills.
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,4 +513,12 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0136-single-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0137-single-number-ii/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 <!---LeetCode Topics End-->
