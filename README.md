@@ -109,6 +109,7 @@ Small progress every day builds strong problem-solving skills.
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -273,6 +274,7 @@ Small progress every day builds strong problem-solving skills.
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Backtracking
@@ -318,6 +320,7 @@ Small progress every day builds strong problem-solving skills.
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2448-minimum-cost-to-make-array-equal/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Parameshwari11-jpg/My-Leetcode-Journey/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -328,10 +331,12 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/3620-network-recovery-pathways/) | Hard |
 ## Minimum Spanning Tree
