@@ -166,6 +166,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0020-valid-parentheses](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -262,6 +263,7 @@ Small progress every day builds strong problem-solving skills.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -352,6 +354,7 @@ Small progress every day builds strong problem-solving skills.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/Parameshwari11-jpg/LeetCode-/tree/main/0172-factorial-trailing-zeroes/) | Medium |
